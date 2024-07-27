@@ -1,0 +1,2368 @@
+.App {
+  text-align: center;
+}
+
+.home{
+  background-color: #F5F7FC;
+  left: -1px;
+  gap: 0px;
+  opacity: 0px;
+ display: flex;
+}
+.nav-section{
+  display: flex;
+  height: 55px;
+  top: 19px;
+  left: 85px;
+  gap: 0px;
+  background-color: #F5F7FC !important;
+  opacity: 0px;
+  margin: 20px;
+  margin-bottom: 20px;
+  position: sticky;
+  text-align: center;
+}
+
+.stem-logo{
+  text-align: start;
+  min-width: 26%;
+}
+
+.stemlogo-image{
+  width: 137px;
+  height: 55px;
+  top: 19px;
+  left: 85px;
+  gap: 0px;
+  opacity: 0px;
+  margin-left:50px;
+}
+
+.header-cls {
+  height: 100px;
+  position: fixed;
+  background-color: #F5F7FC;
+  width: 100%;
+}
+
+.main-nav {
+  text-decoration: none !important;
+}
+
+.nav-elements{
+  display: flex;
+  justify-content: space-between;
+  margin-left: 10px;
+}
+.nav-item{
+  margin-right: 5%;
+  margin-top: 25px;
+  min-width: 110px;
+  font-family: "Lexend";
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 20px;
+  text-align: center;
+}
+.button-elm{
+  display: flex;
+  margin-top: 10px;
+}
+.button-1{
+  width:100px;
+  height: 40px;
+  font-family: "Lexend";
+}
+.confirm-button-class-ok{
+  width: 400px !important;
+  height: 40px !important;
+  gap: 0px !important;
+  border-radius: 4px !important;
+  opacity: 0px !important;
+  background: #1261D7 !important;
+  margin-top: 20px !important;
+  font-family: "Lexend";
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 21px;
+  color: #FFFFFF !important;
+  border-width: 0;
+}
+.confirm-button-class{
+  width: 500px !important;
+  height: 40px !important;
+  gap: 0px !important;
+  border-radius: 4px !important;
+  opacity: 0px !important;
+  background: #1261D7 !important;
+  margin-top: 20px !important;
+  margin-left: 50px !important;
+  font-family: "Lexend";
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 21px;
+  color: #FFFFFF !important;
+  border-width: 0;
+}
+
+.title-class{
+  font-family: "Lexend";
+  font-size: 29px;
+  font-weight: 600;
+  line-height: 50px;
+  color: #102B5B;
+
+}
+.cancel-button-class{
+  background-color: white !important;
+  border-style: none !important;
+  color: #1261D7 !important;
+  margin-top: 20px !important;
+  margin-left: 160px !important;
+  font-family: "Lexend";
+  font-size: 16px;
+  font-weight: 500;
+}
+.Close-button-class{
+  width: 14px !important;
+  height: 14px !important;
+  top: 210px !important;
+  left: 980px !important;
+  gap: 0px !important;
+  opacity: 0px !important;
+  border-style: none !important;
+}
+.html-class{
+  font-family: "Lexend";
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 27px;
+  text-align: center;
+}
+
+.cancel-button-class2{
+  width: 300px !important;
+  height: 30px !important;
+  top: 423px !important;
+  left: 510px !important;
+  gap: 0px !important;
+  border-radius: 4px !important;
+  opacity: 0px !important;
+  background: #1261D7 !important;
+  margin-right: 100px !important;
+  margin-left: 100px !important;
+}
+.close-icon{
+  width: 14px;
+  height: 14px;
+  top: 210px;
+  left: 980px;
+  gap: 0px;
+  border: 2px;
+  opacity: 0px;
+}
+.signup-modal{
+  height: 283px;
+  top: 184px;
+  left: 445px;
+  gap: 0px;
+  border-radius: 20px ;
+  opacity: 0px;
+  padding: 5%;
+}
+
+.signup{
+  font-family: "Lexend";
+  font-size: 29px;
+  font-weight: 600;
+  line-height: 50px;
+  text-align: center;
+  color: #102B5B;
+
+}
+.onclickon{
+  width: 305px;
+  height: 54px;
+  top: 315px;
+  left: 615px;
+  gap: 0px;
+  opacity: 0px;
+  margin-left: 50px;
+}
+.onclickon-text{
+  font-family: "Lexend";
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 27px;
+  text-align: center;
+  color: #8A97AE;
+}
+
+.empower-container{
+  width: 582px;
+  top: 202px;
+  left: 165px;
+  gap: 0px;
+  border-radius: 4px;
+  opacity: 0px;
+  margin-left: 15px;
+  margin-top: 10px;
+    
+}
+.empower{
+  width: 362px;
+  height: 51px;
+  top: 202px;
+  left: 165px;
+  padding: 17px 15px 17px 15px;
+  gap: 10px;
+  border-radius: 4px;
+  opacity: 0px;
+  background-color:  #CFE4FC;
+}
+.empower-text{
+  font-family: "Lexend";
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 17px;
+  text-align: left;
+  color: #102B5B;
+}
+span{
+  color: #102B5B;
+}
+.levelup{
+  width: 682px;
+  height: 106px;
+  top: 265px;
+  left: 165px;
+  gap: 0px;
+  opacity: 0px;
+}
+.levelup-text{
+  color: #1261D7;
+  font-family: "Lexend";
+  font-size: 38px;
+  font-weight: 700;
+  line-height: 52.63px;
+  text-align: left;
+}
+.explore{
+  width:353px;
+  height: 63px;
+  top: 391px;
+  left: 165px;
+  gap: 0px;
+  opacity: 0px;
+}
+.explore-text{
+ font-family: "Lexend";
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 21px;
+  text-align: left;
+  color: #818FA8;
+
+}
+.button-2{
+  width: 167px;
+  height: 48px;
+  top: 478px;
+  gap: 0px;
+  border-radius: 4px;
+  opacity: 0px;
+  border: 2px solid #FFFFFF;
+  font-family: "Lexend";
+  font-size: 14px;
+  font-weight: 600;
+  line-height: 21px;
+  color: #1261D7;
+
+}
+.button-ourcourse{
+  text-align: left;
+  margin-top: 20px;
+  display: flex;
+  justify-content: space-between;
+}
+.iconarrow{
+  width: 17px;
+  height: 12px;
+  top: 497px;
+  left: 289.5px;
+  gap: 0px;
+  border: 2px;
+  opacity: 0px;
+  margin-left:15px;
+}
+
+.imagdiv-1{
+  display: flex;
+  margin-left: -120px;
+}
+.image-1{
+  width: 500px;
+  height: 400px;
+  top: 116px;
+  left: 788px;
+  gap: 0px;
+  opacity: 0px;
+  margin-left: -10px;
+  margin-top: 10px;
+}
+.icon1{
+  width: 49px;
+  height: 49px;
+  top: 163px;
+  left: 101px;
+  padding: 6.13px 4.08px 6.13px 4.08px;
+  gap: 0px;
+  opacity: 0.24px;
+  margin-top: 30px;
+  margin-left: 90px;
+}
+.icon2{
+  width: 60px;
+  height: 60px;
+  top: 127px;
+  left: 565px;
+  padding: 3.75px;
+  gap: 0px;
+  opacity: 0.24px;
+  margin-left: 80px;
+  margin-bottom: 20px;
+}
+.icon3{
+  width: 46px;
+  height: 46px;
+  top: 499px;
+  left: 487px;
+  gap: 0px;
+  opacity: 0.24px;
+  margin-left: 110px;
+  margin-top: -40px;
+}
+.icon4{
+  width: 40px;
+  height: 38px;
+  margin-left: 500px;
+  margin-top: -50px;
+}
+.icon5{
+  width: 40px;
+  height: 53px;
+  top: 115px;
+  left: 821px;
+  gap: 0px;
+  opacity: 0.24px;
+  margin-left: 100px;
+}
+.icon6{
+  width: 16px;
+  height: 16px;
+  top: 115px;
+  left: 980px;
+  gap: 0px;
+  border: 13px 0px 0px 0px;
+  opacity: 0.5px;
+  margin-left: 100px; 
+  margin-right: -170px; 
+}
+.icon7{
+  width: 51px;
+  height: 47px;
+  top: 178px;
+  left: 1307px;
+  gap: 0px;
+  opacity: 0px;
+  margin-top: 40px;
+  margin-left:-60px;  
+}
+.icon8{
+  width: 59px;
+  height: 59px;
+  top: 426px;
+  left: 1358px;
+  gap: 0px;
+  border: 3px 0px 0px 0px;
+  opacity: 0.24px;
+  margin-top: 250px;
+  margin-left: -30px;  
+
+}
+.skills{
+  width: 108px;
+  height: 14.06px;
+  top: 311px;
+  left: 447px;
+  gap: 0px;
+  opacity: 0px;
+  margin-left: -120px;
+  margin-top: 40px;
+}
+.hometext{
+  width:66.39 px;
+  height: 6px;
+  top: 57px;
+  margin-left: -50px;
+  margin-top: 25px;
+}
+
+.trending-div{
+  top: -236px;
+  left: -416px;
+  gap: 0px;
+  opacity: 0px;
+  padding: 20px;
+  margin-top: 30px;
+}
+
+.trending{
+  width: 180px;
+  height: 51px;
+  margin-left: 480px;
+  padding: 17px 20px 17px 20px;
+  gap: 10px;
+  border-radius: 4px;
+  opacity: 0px;
+  background-color: #CFE4FC;
+}
+.trendingcourse{
+  width: 1111.56px;
+  height: 717px;
+  top: 726px;
+  left: 165px;
+  gap: 0px;
+  opacity: 0px;
+} 
+.trending-text{
+  font-family: "Lexend";
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 17px;
+  color: #102B5B;
+
+}
+.ourfeatured{
+  width: 390px;
+  height: 39px;
+  top: 810px;
+  left: 537px;
+  gap: 0px;
+  opacity: 0px;
+  text-align: "center";
+  margin-left: 400px;
+}
+.ourfeatured-text{
+  font-family: "Montserrat";
+  font-size: 32px;
+  font-weight: 700;
+  line-height: 39.01px;
+  color: #1261D7;
+}
+.information3{
+  display: flex;
+  margin-left: 20px;
+}
+.information-box{
+  width: 351.56px;
+  height: 493px;
+  top: 950px;
+  left: 165px;
+  gap: 0px;
+  border-radius: 10px;
+  opacity: 0px;
+  border: 1px solid #C6D5F1;
+  box-shadow: 0px 5px 26px 0px #0000000F;
+  margin-left: 30px;
+  margin-top: 30px;
+}
+.image2{
+  width: 351.56px;
+  height: 186.84px;
+  top: 950px;
+  left: 165px;
+  gap: 0px;
+  opacity: 0px;
+
+}
+.price{
+  width: 56px;
+  height: 33px;
+  top: 1162px;
+  left: 186px;
+  gap: 0px;
+  border-radius: 4px;
+  opacity: 0px;
+  background-color: #CFE4FC;
+  text-align: center;
+  margin: 20px;
+
+}
+.price-text{
+  font-family: "Lexend";
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 15px;
+  text-align: left;
+  color: #102B5B;
+  margin: 15px;
+  padding-top: 10px;
+}
+.information-textbox{
+  width: 320.44px;
+  height: 58.53px;
+  top: 1208.88px;
+  left: 185px;
+  gap: 0px;
+  opacity: 0px;
+  margin: 15px;
+}
+.informationtext{
+  font-family: "Lexend";
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 26px;
+  text-align: left;
+  color: #102B5B;
+
+}
+.lorem{
+  width: 284.7px;
+  height: 57.4px;
+  top: 1271.92px;
+  left: 185px;
+  gap: 0px;
+  opacity: 0px;
+  margin: 15px;
+}
+.lorem-text{
+  font-family: "Lexend";
+  font-size: 15px;
+  font-weight: 400;
+  line-height: 25.5px;
+  text-align: left;
+  color: #8593AD;
+  
+}
+hr{
+  width: 311px;
+  height: 0px;
+  top: 1343px;
+  left: 185px;
+  gap: 0px;
+  border: 1px;
+  opacity: 0px;
+  border: 1px solid #E5E5E5
+}
+.ellipse{
+  width: 27px;
+  height: 27px;
+  top: 1373px;
+  left: 186px;
+  gap: 0px;
+  opacity: 0px;
+  background: #D9D9D9;
+  border-radius: 50px;
+}
+.ellipse-lessons{
+  display: flex;
+  justify-content: space-around;
+
+}
+.lessons{
+  font-family: "Lexend";
+  font-size: 15px;
+  font-weight: 400;
+  line-height: 25.5px;
+  text-align: left;
+  color: #8593AD;
+
+}
+.enroll{
+  width: 155px;
+  height: 54px;
+  top: 1361px;
+  left: 341px;
+  gap: 0px;
+  border-radius: 4px;
+  opacity: 0px;
+  background: #1261D7;
+  display: flex;
+  margin-top: -10px;
+}
+.enroll-textbox{
+  width: 87.6px;
+  height: 23.64px;
+  top: 1376px;
+  left: 361px;
+  gap: 0px;
+  opacity: 0px;
+  margin: 15px;
+
+}
+.enroll-text{
+  font-family: "Lexend";
+  font-size: 14px;
+  font-weight: 600;
+  line-height: 21px;
+  text-align: left;
+  color: #FFFFFF;
+  
+}
+.home-bestquality{
+  height: 733px;
+  top: 1562px;
+  gap: 0px;
+  opacity: 0px;
+  background: linear-gradient(6.53deg, #F6F8FE 5.64%, rgba(246, 248, 254, 0.57) 95.52%);
+  display: flex;
+}
+.square{
+  width: 132.14px;
+  height: 131.96px;
+  top: 1608px;
+  left: 246px;
+  padding: 0px;
+  gap: 0px;
+  opacity: 0.3px;
+  color: #CBD0EC;
+  margin-left: -140px;
+  margin-top: 20px;
+}
+.image-container{
+  display: flex;
+}
+.girlimage{
+  width: 251px;
+  height: 251px;
+  top: 1804px;
+  left: 121px;
+  gap: 0px;
+  opacity: 0px;
+  margin: 40px;
+  
+}
+.boyimage{
+  width: 445px;
+  height: 550px;
+  top: 1654px;
+  left: 291px;
+  gap: 0px;
+  opacity: 0px;
+  margin-left: -80px;
+  margin-top: -60px;
+}
+.get-toknow-main{
+  width: 380px;
+  height: 439px;
+  top: 1704px;
+  left: 860px;
+  gap: 0px;
+  border-radius: 4px;
+  opacity: 0px;
+  margin: 8%;
+}
+.gettoknow{
+  width: 161px;
+  height: 29px;
+  top: 1704px;
+  left: 860px;
+  gap: 0px;
+  border-radius: 4px;
+  opacity: 0px;
+  background: #CFE4FC;
+  
+}
+.gettoknow-text{
+  font-family: "Lexend";
+  font-size: 11px;
+  font-weight: 600;
+  line-height: 21px;
+  text-align: left;
+  color: #1D336D;
+  margin: 15px;
+  padding-top: 5px;
+}
+.we-are{
+  width: 380px;
+  height: 117px;
+  top: 1745px;
+  left: 860px;
+  gap: 0px;
+  opacity: 0px;
+}
+.we-are-text{
+  font-family: "Montserrat";
+  font-size: 32px;
+  font-weight: 700;
+  line-height: 39.01px;
+  text-align: left;
+  color:#1261D7;
+}
+.embark{
+  width: 345px;
+  height: 147px;
+  top: 1883px;
+  left: 860px;
+  gap: 0px;
+  opacity: 0px;
+  margin-top: 30px;
+}
+.embark-text{
+  font-family: "Lexend";
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 21px;
+  text-align: left;
+  color: #53688D;
+}
+.discover{
+  width: 188px;
+  height: 48px;
+  top: 2095px;
+  left: 860px;
+  gap: 0px;
+  border-radius: 4px;
+  opacity: 0px;
+  border: 2px solid #FFFFFF;
+  background-color : #1261D7; 
+  margin-top: 70px;
+  display: flex;
+}
+.discover-text{
+  font-family: "Lexend";
+  font-size: 14px;
+  font-weight: 600;
+  line-height: 21px;
+  text-align: left;
+  color: #FFFFFF;
+  margin: 18px;
+margin-top: 10px;
+}
+.instructors-main{
+  top: -236px;
+  left: -416px;
+  gap: 0px;
+  opacity: 0px;
+  background: #FFFFFF;
+  margin-top: 40px;
+}
+.our-qualified{
+  width: 260px;
+  height: 51px;
+  top: 2384px;
+  left: 592px;
+  padding: 17px 15px 17px 15px;
+  gap: 10px;
+  border-radius: 4px ;
+  opacity: 0px;
+  background: #CFE4FC;
+  margin-left: 40%;
+}
+.our-qualifiedtext{
+  font-family: "Lexend";
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 17px;
+  text-align: left;
+  color: #102B5B;
+  
+}
+.top-class{
+  width: 394px;
+  height: 62.06px;
+  top: 2447px;
+  left: 523px;
+  gap: 0px;
+  opacity: 0px;
+  margin-left: 35%;
+
+}
+.topclass-text{
+  font-family: "Lexend";
+  font-size: 38px;
+  font-weight: 700;
+  line-height: 52.63px;
+  text-align: left;
+  color: #1261D7;
+}
+.instructorsdetails{
+  width: 1133.56px;
+  top: 2565px;
+  left: 152.22px;
+  gap: 0px;
+  border-radius: 17px;
+  opacity: 0px;
+  margin-top: 20px;
+  margin-left: 30px;
+  display: flex;
+  padding: 40px;
+}
+.each-instructor{
+  display: flex;
+  justify-content: space-between;
+  margin-left: 20px;
+}
+
+.arrow1{
+  width: 60.85px;
+  height: 60.85px;
+  top: 2730.64px;
+  left: 152.22px;
+  gap: 0px;
+  opacity: 0px;
+  margin-top: 180px;
+  margin-right:-30px;
+ 
+}
+.arrow2{
+  width: 60.85px;
+  height: 60.85px;
+  top: 2791.49px;
+  left: 1285.78px;
+  gap: 0px;
+  opacity: 0px;
+  margin-top: 180px;
+  margin-left: -10px;
+
+}
+.individualinstructor:hover{
+  background: #1261D738;
+}
+.individualinstructor{
+  width: 341px;
+  height: 466px;
+  top: 2565px;
+  left: 182px;
+  gap: 0px;
+  border-radius: 10px;
+  opacity: 0px;
+  border: 1px solid #D3D3D3; 
+  margin :5px
+}
+.image-instructor{
+  width: 188.18px;
+  height: 188.18px;
+  top: 2615.71px;
+  left: 259.27px;
+  gap: 0px;
+  opacity: 0px;
+  border-radius: 50px;
+  margin-top: 50px;
+}
+.instructor-name{
+  width: 144.23px;
+  height: 25.92px;
+  top: 2844.45px;
+  left: 641.25px;
+  gap: 0px;
+  opacity: 0px;
+  margin-left: 90px;
+  margin-top: 40px;
+}
+.instructor-nametext{
+  font-family: "Lexend";
+  font-size: 25px;
+  font-weight: 600;
+  line-height: 23px;
+  text-align: center;
+  color: #102B5B;
+  
+}
+.graphic{
+  font-family: "Lexend";
+font-size: 16px;
+font-weight: 400;
+line-height: 23px;
+text-align: center;
+color: #707E97;
+margin-left: -5px;
+}
+.text-instructorbox{
+  width: 283px;
+  height: 60px;
+  top: 2925px;
+  left: 577px;
+  gap: 0px;
+  opacity: 0px;
+  margin-left: 20px;
+}
+.text-instructor{
+  font-family: "Lexend";
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 20px;
+  text-align: center;
+  color: #53688D;
+  
+}
+.Ourtestimonials-div{
+  top: 3189px;
+  gap: 0px;
+  opacity: 0px;
+  padding: 30px;
+  background: #F6F7FB;
+
+}
+.Ourtestimonials{
+  width: 165px;
+  height:51px;
+  top: 3240px;
+  left: 638px;
+  padding: 17px 15px 17px 15px;
+  gap: 10px;
+  opacity: 0px;
+  background: #CFE4FC;
+  margin-left: 45%;
+  margin-top: 60px;
+}
+.Ourtestimonials-text{
+  font-family: "Lexend";
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 17px;
+  text-align: left;
+  color: #102B5B;
+  
+}
+.learnnew{
+  width: 506px;
+  height: 106px;
+  top: 3303px;
+  left: 467px;
+  gap: 0px;
+  opacity: 0px;
+  margin-left: 30%;
+}
+.learnnew-text{
+  font-family: "Lexend";
+  font-size: 38px;
+  font-weight: 700;
+  line-height: 52.63px;
+  text-align: center;
+  color: #1261D7;
+}
+.worldmap-div{
+  height: 556.35px;
+  top: 3444px;
+  left: 46px;
+  gap: 0px;
+  opacity: 0px;
+  margin: 50px;
+  display: flex;
+  padding: 150px;
+  justify-content: space-between;
+
+}
+
+.testmnl-part1{
+  display: flex;
+  flex-direction: column;
+  margin-top: -30px;
+  margin-left: -50px;
+}
+.testmnl-part3{
+  display: flex;
+  flex-direction: column;
+}
+.testmnl-part2{
+  width: 801px;
+  height: 366px;
+  top: 3539px;
+  left: 297px;
+  gap: 0px;
+  border-radius: 30px;
+  opacity: 0px;
+  background: #FFFFFF;
+  box-shadow: 0px 26px 52px 6px #CCCFDA66;
+  display: flex;
+  margin-left: 20px;
+  justify-content: space-between;
+  margin-top: -40px;
+  padding: 30px;
+}
+.testmnl-1{
+  width: 88px;
+  height: 86px;
+  top: 3511px;
+  left: 117px;
+  gap: 0px;
+  opacity: 0px;
+  margin-top: -30px;
+  margin-left: -80px;
+}
+.testmnl-2{
+  width: 53.21px;
+  height: 52px;
+  top: 3729px;
+  left: 204px;
+  gap: 0px;
+  opacity: 0px;
+  margin-top: 140px;
+  margin-left: 50px;
+}
+.testmnl-3{
+  width: 54.23px;
+  height: 53px;
+  top: 3885px;
+  left: 46px;
+  gap: 0px;
+  opacity: 0px;
+  margin-top: 110px;
+  margin-left: -100px;
+}
+.testmnl-4{
+  width: 88px;
+  height: 86px;
+  top: 3444px;
+  left: 1303px;
+  gap: 0px;
+  opacity: 0px;
+  margin-left: 110px;
+  margin-top: -100px;
+  margin-right: -160px;
+}
+.testmnl-5{
+  width: 54.23px;
+  height: 53px;
+  top: 3659px;
+  left: 1201px;
+  gap: 0px;
+  opacity: 0px;
+  margin-left: 70px;
+  margin-top: 100px;
+}
+.testmnl-6{
+  width: 88px;
+  height: 86px;
+  top: 3842px;
+  left: 1289px;
+  gap: 0px;
+  opacity: 0px;
+  margin-left: 110px;
+  margin-top: 160px;
+  margin-right: -60px;
+}
+.stars{
+  width: 170.59px;
+  height: 29px;
+  top: 3663px;
+  left: 612px;
+  gap: 0px;
+  opacity: 0px;
+  margin-top: 20px;
+}
+.quotes{
+  width: 98px;
+  height: 74px;
+  top: 3570px;
+  left: 649px;
+  gap: 0px;
+  opacity: 0px;
+  
+}
+.ihavetaken{
+  width: 581px;
+  height: 96px;
+  top: 3706px;
+  left: 407px;
+  gap: 0px;
+  opacity: 0px;
+  margin-top: 20px;
+  margin-left: 20px;
+  
+}
+.ihavetaken-text{
+  font-family: "Lexend";
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  text-align: center;
+  color: #3B4A66;
+  
+}
+.sarah{
+  font-family: "Lexend";
+  font-size: 21px;
+  font-weight: 500;
+  line-height: 34px;
+  text-align: left;
+  color: #1261D7;
+margin-top: 35px;
+margin-left: 240px;
+}
+.footer-main{
+  background: #121735;
+  
+}
+.footer{
+  display: flex;
+  padding: 90px;
+
+}
+.stemlogo-div{
+text-align: left;
+}
+.stemlogo-2{
+  width: 173px;
+  height: 74px;
+  top: 4111px;
+  left: 175px;
+  gap: 0px;
+  opacity: 0px;
+
+}
+.callus{
+  font-family: "Lexend";
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 25px;
+  text-align: left;
+  color: #FFFFFF;
+  margin-top: 60px;
+}
+.contactnum{
+  font-family: "Lexend";
+  font-size: 23px;
+  font-weight: 700;
+  line-height: 28.75px;
+  text-align: left;
+  color: #2E69CB;
+
+}
+.address{
+  width: 329px;
+  height: 66px;
+  top: 4325px;
+  left: 175px;
+  gap: 0px;
+  opacity: 0px;
+  margin-top: 30px;
+}
+.address-text{
+  font-family: "Lexend";
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 33px;
+  text-align: left;
+  color: #B7B6B6;
+
+}
+.website{
+  font-family: "Lexend";
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 33px;
+  text-align: left;
+  color: #B7B6B6;
+  margin-top: 20px;
+}
+.home-footer{
+  width: 161px;
+  height: 432px;
+  top: 4105px;
+  left: 679px;
+  gap: 0px;
+  opacity: 0px;
+  margin-left: 240px;
+}
+.footer-home{
+  font-family: "Lexend";
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 54px;
+  text-align: left;
+  color: #B7B6B6;
+
+}
+.followus-div{
+  margin-left: 240px;
+}
+.followus{
+  font-family: "Lexend";
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 54px;
+  text-align: left;
+  color: #FFFFFF;
+
+}
+.icons-footer{
+  width: 174px;
+  height: 33px;
+  top: 4177px;
+  left: 998px;
+  gap: 0px;
+  opacity: 0px;
+  text-align: left;
+}
+.footer-hr{
+  color: white;
+  height: 25px;
+  top: 4609px;
+  gap: 0px;
+  border: 2px;
+  opacity: 0px;
+}
+
+.copyright{
+  font-family: "Jost";
+  font-size: 20px;
+  font-weight: 300;
+  line-height: 33px;
+  text-align: left;
+  color: #B8B8B8;
+  margin-bottom: -50px;
+  margin-left: 550px;
+}
+.about-bgimage{
+height: 400px;
+top: 87px;
+gap: 0px;
+opacity: 0px;
+margin-top: 50px;
+background-repeat: no-repeat;
+}
+.aboutus{
+  text-align: left;
+  padding: 100px;
+  margin-left: 100px;
+}
+.aboutus-text{
+  font-family: "Lexend";
+  font-size: 65px;
+  font-weight: 600;
+  line-height: 81.25px;
+  color: #FFFFFF;
+
+}
+.home-aboutus{
+  color: white;
+  display: flex;
+}
+.about-arrow{
+  width: 5px;
+  height: 9px;
+  top: 320px;
+  left: 319px;
+  gap: 0px;
+  border: 2px;
+  opacity: 0px;
+  margin: 8px;
+}
+.ourmission{
+height: 276px;
+top: 1210px;
+left: -3px;
+gap: 0px;
+opacity: 0px;
+display: flex;
+padding-left: 190px;
+padding-top: 20px;
+
+}
+.outmission-description{
+  width: 954.59px;
+  height: 151px;
+  top: 1273px;
+  left: 294.41px;
+  gap: 0px;
+  opacity: 0px;
+  display: flex;
+  margin: 60px;
+  margin-left:80px;
+}
+.ourmission-headingbox{
+  width: 193.27px;
+  height: 46.08px;
+  top: 1325px;
+  left: 294.41px;
+  gap: 0px;
+  opacity: 0px;
+
+}
+.ourmission-heading{
+  font-family: "Lexend";
+  font-size: 32px;
+  font-weight: 700;
+  line-height: 40px;
+  text-align: left;
+  color: white;
+}
+.mission{
+  width: 99.86px;
+  height: 7.16px;
+  top: 1363.92px;
+  left: 374.52px;
+  gap: 0px;
+  opacity: 0px;
+  margin-top: -20px;
+  margin-left: 70px;
+
+}
+.mission-line{
+  width: 2px;
+  height: 141px;
+  top: 1278px;
+  left: 546.76px;
+  gap: 0px;
+  opacity: 0px;
+  color: #FFFFFF;
+  margin-left: 69px;
+
+}
+.ourmission-is{
+  width: 610px;
+  height: 151px;
+  top: 1273px;
+  left: 580px;
+  gap: 0px;
+  opacity: 0px;
+  margin-left: 40px;
+}
+.ourmission-text{
+  font-family: "Lexend";
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 26.5px;
+  text-align: left;
+  color: #E5E5E5;
+  
+}
+.wave-image{
+  width: 99.14px;
+  height: 14px;
+  top: 1239.79px;
+  padding: 0px;
+  gap: 0px;
+  opacity: 0px;
+  margin-left: -160px;
+}
+.courses-page{
+  display: flex;
+  padding: 10px;
+  max-width: 800px;
+}
+.filterby-div{
+  margin-top: 50px;
+  margin-left: 5px;
+}
+.bycategory{
+  width: 262px;
+  height: 397px;
+  top: 636px;
+  left: 165px;
+  gap: 0px;
+  opacity: 0px;
+  border: 1px solid #C6D5F1;
+  box-shadow: 0px 5px 26px 0px #0000000F;
+  border-radius: 10px;
+  padding: 20px;
+
+}
+
+.bycategory-head{
+  font-family: "Lexend";
+  font-size: 19px;
+  font-weight: 500;
+  line-height: 23.75px;
+  text-align: left;
+  color: #102B5B;
+
+}
+
+.filter-line{
+  width: 62px;
+  height: 4px;
+  top: 694px;
+  left: 189px;
+  gap: 0px;
+  border-radius: 29.5px;
+  opacity: 0px;
+  color: #3363C1;
+  margin-left: -150px;
+}
+.programng{
+  width: 215px;
+  height: 21px;
+  top: 715px;
+  left: 189px;
+  gap: 0px;
+  border-radius: 4px;
+  border: 1px 0px 0px 0px;
+  opacity: 0px;
+  display: flex;
+  margin-top: 10px;
+}
+.programng-text{
+  font-family: "Lexend";
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 21px;
+  text-align: left;
+  color: #53688D;
+  margin-left: 10px;
+}
+.wefound-div{
+  margin-top: 50px;
+  margin-left: 10px;
+}
+.wefound-text{
+  font-family: "Lexend";
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 21px;
+  text-align: left;
+
+}
+.span100{
+  color: #1261D7;
+}
+.courses-display{
+  width: 900px;
+  display: flex;
+  flex-wrap: wrap;
+
+}
+.eachcourse-box{
+  width: 258px;
+  height: 394px;
+  top: 705px;
+  left: 458px;
+  gap: 0px;
+  border-radius: 10px;
+  opacity: 0px;
+  border: 1px solid #C6D5F1;
+  margin-left: 10px;
+  margin-top: 30px;
+}
+.courseimage{
+    width: 258px;
+  height: 149.32px;
+  top: 705px;
+  left: 458px;
+  gap: 0px;
+  opacity: 0px;
+  border-radius: 10px;
+}
+.course-price{
+    width: 21px;
+    height: 15px;
+    top: 880px;
+    left: 483px;
+    gap: 0px;
+    opacity: 0px;
+    background: #CFE4FC;
+    margin: 20px;
+  
+}
+.courseprice-text{
+    font-family: "Lexend";
+    font-size: 12px;
+    font-weight: 600;
+    line-height: 13px;
+    text-align: left;
+    color: #102B5B;
+    margin: 3px;
+}
+.course-textbox{
+    width: 200px;
+  height: 47px;
+  top: 914px;
+  left: 472px;
+  gap: 0px;
+  opacity: 0px;
+  margin: 15px;
+}
+.coursetext{
+  font-family: "Lexend";
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 23px;
+  text-align: left;
+  color: #102B5B;
+  
+}
+.course-lorem{
+  width: 208.94px;
+  height: 45.88px;
+  top: 970px;
+  left: 473px;
+  gap: 0px;
+  opacity: 0px;
+  padding-top: 15px;
+  margin: 15px;  
+}
+.courselorem-text{
+    font-family: "Lexend";
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 18px;
+    text-align: left;
+    color: #8593AD;   
+}
+.course-hr{
+  width: 228px;
+  height: 0px;
+  top: 1027px;
+  left: 473px;
+  gap: 0px;
+  opacity: 0px;
+}
+.course-ellipse{
+    width: 19px;
+    height: 19px;
+    top: 1046px;
+    left: 473px;
+    gap: 0px;
+    opacity: 0px;
+    background: #D9D9D9;
+    border-radius: 50px;
+  }
+.courseellipse-lessons{
+    display: flex;
+    justify-content: space-around;
+  
+}
+.course-lessons{
+  font-family: "Lexend";
+  font-size: 15px;
+  font-weight: 400;
+  line-height: 25.5px;
+  text-align: left;
+  color: #8593AD;
+}
+.course-enroll{
+  width: 113.75px;
+  height: 43.16px;
+  top: 1033px;
+  left: 587.16px;
+  gap: 0px;
+  border-radius: 4px;
+  opacity: 0px;
+  background: #1261D7;
+  display: flex;
+  margin-top: -10px;
+}
+.courseenroll-textbox{
+    width: 86.55px;
+    height: 21px;
+    top: 1044px;
+    left: 601px;
+    gap: 0px;
+    opacity: 0px; 
+    margin: 10px;
+  
+}
+.courseenroll-text{
+  font-family: "Lexend";
+  font-size: 12px;
+  font-weight: 600;
+  line-height: 21px;
+  text-align: left;
+  color: #FFFFFF;
+    
+}
+.each-instructorpage{
+    display: flex;
+    justify-content: space-between;
+    width: 800px;
+    flex-wrap: wrap;
+    margin-top: 50px;
+    margin-bottom: 60px;
+    margin-left:10%;
+}
+.buttons123{
+    margin-left: 400px;
+    margin-top: 50px;
+}
+.num-button{
+    margin-right: 30px;
+   min-width: 20px;
+ }
+.instructor-robert{
+  width: 1110px;
+  top: 598px;
+  left: 165px;
+  gap: 0px;
+  border-radius: 15px;
+  opacity: 0px;
+  border: 1px solid #E8E8E8;
+  box-shadow: 0px 14px 24px 0px #0000000F;
+  margin:90px;
+  margin-left: 80px;
+  display: flex;
+  padding: 30px;
+}
+.robert-details{
+  margin-left: 40px;
+  margin-top: -20px;
+}
+.robert-image{
+  width: 253.66px;
+  height: 221px;
+  top: 622px;
+  left: 185px;
+  gap: 0px;
+  opacity: 0px;
+
+}
+.robert-name{
+  font-family: "Lexend";
+  font-size: 25px;
+  font-weight: 500;
+  line-height: 31.25px;
+  text-align: left;
+  color: #102B5B;
+}
+.robert-grdesignr{
+  font-family: "Lexend";
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 25px;
+  text-align: left;
+  color: #1261D7;
+  margin-top: -10px;
+}
+.robert-Hrline{
+  width: 720px;
+ margin-left: -35px;
+
+}
+.robert-bio{
+  font-family: "Lexend";
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 25px;
+  text-align: left;
+  color: #102B5B;
+}
+.bio-lorem{
+  width: 749px;
+  height: 80px;
+  top: 741px;
+  left: 475px;
+  gap: 0px;
+  opacity: 0px;
+}
+
+.bio-loremtext{
+  font-family: "Lexend";
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 20px;
+  text-align: left;
+  color: #53688D;
+
+}
+.uiux-div{
+  width: 1093px;
+  height: 648px;
+  top: 564px;
+  left: 173px;
+  gap: 0px;
+  opacity: 0px;
+  border: 1px solid #E8E8E8;
+  border-radius: 15px ;
+  box-shadow: 0px 8px 24px 0px #0000000F;
+  margin: 60px;
+  margin-left: 70px;
+  margin-bottom: 100px;
+  padding: 30px;
+}
+
+.information-about{
+  font-family: "Lexend";
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 26px;
+  text-align: left;
+  color: #1261D7;
+}
+.up-arrow{
+  width: 38px;
+height: 38px;
+left: 1206px;
+gap: 0px;
+opacity: 0px;
+margin-top: -70px;
+margin-left: 950px;
+}
+.ouraim-div{
+  width: 945px;
+  height: 80px;
+  top: 635px;
+  left: 205px;
+  gap: 0px;
+  opacity: 0px;
+
+}
+.ouraim-text{
+  font-family: "Lexend";
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 20px;
+  text-align: left;
+  color: #53688D;
+}
+.horizontal-line{
+  width: 1050px;
+  height: 5px;
+  top: 830px;
+  left: 205px;
+  gap: 0px;
+  border: 1px;
+  opacity: 0px;
+  margin-bottom: 20px;
+  margin-top: 15px;
+}
+
+.information-about2{
+  font-family: "Lexend";
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 26px;
+  text-align: left;
+  color: #695A5A;
+  
+}
+.each-uiux{
+  display: flex;
+}
+.rightarrow2{
+  margin-left: 650px;
+}
+.contactus-information{
+  display: flex;
+  padding: 40px;
+}
+.contactinf-div{
+ min-width: 400px;
+}
+.queensberry{
+  display: flex;
+  min-width: 400px;
+  height: 60px;
+  top: 699px;
+  left: 165px;
+  gap: 0px;
+  opacity: 0px;
+  margin-top: 40px;
+}
+.ellipse-blue{
+  width: 58px;
+  height: 58px;
+  top: 700px;
+  left: 165px;
+  gap: 0px;
+  opacity: 0px;
+
+}
+.location-icon{
+  width: 18px;
+  height: 29px;
+  top: 714px;
+  left: 185px;
+  gap: 0px;
+  opacity: 0px;
+  margin-left: -40px;
+  margin-top: 15px;
+}
+.qeensberry-textdiv{
+  width: 300px;
+  height: 60px;
+  top: 699px;
+  left: 239px;
+  gap: 0px;
+  opacity: 0px;
+  margin-left: 40px;
+}
+.qeensberry-text{
+  font-family: "Lexend";
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 30px;
+  text-align: left;
+  color: #3D4A60;
+}
+
+.contactinf-text{
+  font-family: "Lexend";
+  font-size: 32px;
+  font-weight: 700;
+  line-height: 40px;
+  text-align: left;
+  color: #102B5B;
+
+}
+.getintouch-div{
+  width: 696px;
+  height: 465px;
+  top: 609px;
+  left: 579px;
+  gap: 0px;
+  border-radius: 10px ;
+  opacity: 0px;
+  border: 1px solid #BCD7F8;
+  background: #F3F7FD;
+  margin-left: 100px;
+  padding: 20px;
+}
+.getintouch-text{
+  font-family: "Lexend";
+  font-size: 25px;
+  font-weight: 600;
+  line-height: 31.25px;
+  text-align: left;
+  color: #102B5B;
+  margin-left: 10px;
+  margin-bottom: 50px;
+}
+
+.fullname{
+  width: 627px;
+  height: 37px;
+  top: 724px;
+  left: 615px;
+  gap: 0px;
+  opacity: 0px;
+  border-style: none;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+::placeholder {
+  color: #B2B8C3;
+  font-family: "Lexend";
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 34px;
+  text-align: left;
+}
+.phone-num{
+  width: 303px;
+  height: 37px;
+  top: 774px;
+  left: 615px;
+  gap: 0px;
+  border-radius: 4px ;
+  opacity: 0px;
+  border-style: none;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+.email-address{
+  width: 303px;
+  height: 34px;
+  top: 776px;
+  left: 959px;
+  gap: 0px;
+  opacity: 0px;
+  border-style: none;
+  padding: 20px;
+  margin-bottom: 20px;
+
+}
+.message{
+  width: 627px;
+  height: 102px;
+  top: 824px;
+  left: 615px;
+  gap: 0px;
+  border-radius: 4px;
+  opacity: 0px;
+  border-style: none;
+  padding: 20px;
+}
+.button-div{
+  text-align: left;
+  margin-top: 30px;
+  margin-left: 15px;
+}
+.sendmsg-button{
+  width: 188px;
+  height: 48px;
+  top: 966px;
+  left: 615px;
+  gap: 0px;
+  border-radius: 4px;
+  opacity: 0px;
+  background: #1261D7;
+  font-family: "Lexend";
+  font-size: 14px;
+  font-weight: 600;
+  line-height: 21px;
+  text-align: left;
+  color: #FFFFFF;
+  border-style: none;
+  padding: 10px;
+
+}
+.googlemap{
+height: 561px;
+top: 1197px;
+left: -5px;
+gap: 0px;
+opacity: 0px;
+
+}
+.coursepage-part1{
+height: 512px;
+top: 95px;
+gap: 0px;
+opacity: 0px;
+background: #052452;
+margin-top: 130px;
+padding: 100px;
+}
+.course-back{
+  display: flex;
+}
+.back{
+  font-family: "Lexend";
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 21px;
+  text-align: left;
+  color: #BCBCBC;
+  margin-top: 5px;
+  margin-left: 5px;
+}
+.graphic-text{
+  width: 159px;
+  height: 44px;
+  top: 195px;
+  left: 165px;
+  gap: 0px;
+  border-radius: 48px;
+  opacity: 0px;
+  background: #1261D7;
+  margin-top: 15px;
+}
+.graphic-text{
+  font-family: "Lexend";
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 21px;
+  text-align: left;
+  color: #FFFFFF;
+  padding: 13px;
+}
+.essential{
+  width: 736px;
+  height: 100px;
+  top: 283px;
+  left: 165px;
+  gap: 0px;
+  opacity: 0px;
+  
+}
+.essential-text{
+  font-family: "Lexend";
+  font-size: 36px;
+  font-weight: 600;
+  line-height: 50px;
+  text-align: left;
+  color: #FFFFFF;
+
+}
+.lorem-coursedetail{
+  width: 671px;
+  height: 50px;
+  top: 397px;
+  left: 165px;
+  gap: 0px;
+  opacity: 0px;
+  margin-top: 10px;
+}
+.lorem-coursedetailtext{
+  font-family: "Lexend";
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 25px;
+  text-align: left;
+  color: #8A97AE;
+
+}
+.person-interesteddiv{
+  display: flex;
+  margin-top: 10px;
+}
+.students340{
+  font-family: "Lexend";
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 25px;
+  text-align: left;
+  color: #FFFFFF;
+  margin-top: 10px;
+  margin-left: 10px;
+}
+.thiscoursediv{
+  width: 296px;
+  height: 537px;
+  top: 324px;
+  left: 979px;
+  border: 1px solid #C6D5F1;
+  border-radius: 10px;
+  margin-left: 800px;
+  margin-top: -180px;
+
+}
+.Course1-image{
+  width: 296px;
+  height: 149.32px;
+  top: 324px;
+  left: 979px;
+  gap: 0px;
+  opacity: 0px;
+  border-radius: 10px;
+}
+.course1-div{
+  background-color: white;
+  padding: 20px;
+}
+.coursedetails-cost{
+  font-family: "Lexend";
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 18px;
+  text-align: left;
+  color: #8593AD;
+
+}
+.cost-0{
+  font-family: "Lexend";
+  font-size: 23px;
+  font-weight: 600;
+  line-height: 15px;
+  text-align: left;
+  color: #102B5B;
+
+}
+.coursedetail-enroll{
+  width: 248px;
+  height: 43px;
+  top: 534px;
+  left: 1003px;
+  gap: 0px;
+  border-radius: 4px;
+  opacity: 0px;
+  background: #1261D7;
+
+}
+.coursedetailenroll-textbox{
+  width: 117.1px;
+  height: 21px;
+  top: 545px;
+  left: 1068px;
+  gap: 0px;
+  opacity: 0px;
+  color: #FFFFFF;
+  margin: 30px;
+
+}
+.coursedetailenroll-text{
+  font-family: "Lexend";
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 21px;
+  text-align: left;
+  padding-top: 10px;
+  margin-left: 15px;
+}
+.enroll-modal{
+height: 550px;
+left: 315px;
+gap: 0px;
+border-radius: 27px;
+opacity: 0px;
+text-align: center; 
+ padding: 20px;
+}
+.enrollmodal-text{
+  font-family: "Lexend";
+  font-size: 29px;
+  font-weight: 600;
+  line-height: 50px;
+  color: #102B5B;
+
+}
+.enrollmodal-icon{
+  width: 55px;
+  height: 55px;
+  top: 314px;
+  left: 693px;
+  gap: 0px;
+  opacity: 0px;
+
+}
+.enroll-onclickon{
+width: 692px;
+height: 297px;
+top: 454px;
+left: 374px;
+gap: 0px;
+opacity: 0px;
+
+}
+.enrollonclickon-text{
+  font-family: "Lexend";
+  font-size: 15px;
+  font-weight: 400;
+  line-height: 27px;
+  color: #8A97AE;
+  margin-left: 95px;
+
+}
+.onclickonspan{
+  font-family: "Lexend";
+  font-size: 15px;
+  font-weight: 500;
+  line-height: 27px;
+  color: #1261D7;
+}
+.enroll-onclickonspan{
+  font-family: "Lexend";
+  font-size: 15px;
+  font-weight: 500;
+  line-height: 27px;
+  color: #1261D7;
+  margin-left: 95px;
+}
+.thankyou-div{
+  width: 660px;
+  height: 108px;
+  top: 454px;
+  left: 390px;
+  gap: 0px;
+  opacity: 0px;
+  margin-left: 30px;
+
+}
+.thankyou-text{
+  font-family: "Lexend";
+font-size: 16px;
+font-weight: 400;
+line-height: 27px;
+color: #8A97AE;
+
+}
+.thiscoursetext{
+  font-family: "Lexend";
+  font-size: 19px;
+  font-weight: 500;
+  line-height: 23.75px;
+  text-align: left;
+  color: #102B5B;
+  margin-top: 10px;
+}
+.courseincludes{
+  width: 248px;
+  height: 29px;
+  top: 541px;
+  left: 1003px;
+  gap: 0px;
+  opacity: 0px;
+  display: flex;
+  margin-bottom:15px;
+}
+.durationtext{
+  font-family: "Lexend";
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 21px;
+  color: #53688D;
+  margin-left: 13px;
+  margin-top: 5px;
+  width: 68px;
+  height: 21px;
+  top: 645px;
+  left: 1044px;
+  gap: 0px;
+  opacity: 0px;
+
+}
+.duration-value{
+  font-family: "Lexend";
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 18px;
+  color: #8593AD;
+  margin-left: 78px;
+  margin-top: 5px;
+}
+.Estimated-Seat{
+  width: 119px;
+  height: 21px;
+  top: 690px;
+  left: 1044px;
+  gap: 0px;
+  opacity: 0px;
+  font-family: "Lexend";
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 21px;
+  text-align: left;
+  color: #53688D;
+
+}
+.seats{
+  margin-left: 15px;
+}
+.seat-value{
+  font-family: "Lexend";
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 18px;
+  text-align: left;
+  color: #8593AD;
+  margin-left: 55px;
+
+}
+.description-div{
+  margin: 70px;
+}
+.descrptn-text{
+  font-family: "Lexend";
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 23px;
+  text-align: left;
+  color: #102B5B;
+
+}
+.this-tutorialdiv{
+  width: 671px;
+  top: 710px;
+  left: 165px;
+  gap: 0px;
+  opacity: 0px;
+  
+}
+.this-tutorialtext{
+  font-family: "Lexend";
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 25px;
+  text-align: left;
+  color: #8A97AE;
+  
+}
+.whatwill-div{
+  width: 668px;
+  top: 973px;
+  left: 165px;
+  gap: 0px;
+  opacity: 0px;
+  margin-top: 40px;
+}
+.whatwill-text{
+  font-family: "Lexend";
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 23px;
+  text-align: left;
+  color: #102B5B;
+  
+}
+.learnings{
+ display: flex;
+}
+
+.become{
+height: 25px;
+top: 1033px;
+left: 165px;
+gap: 0px;
+opacity: 0px;
+display: flex;
+margin-bottom: 15px;
+}
+.become-text{
+  font-family: "Lexend";
+font-size: 16px;
+font-weight: 400;
+line-height: 25px;
+color: #8A97AE;
+margin-left: 9px;
+}
+.yourinstructors-1{
+  display: flex;
+  width: 790px;
+height: 221px;
+top: 1280px;
+left: 165px;
+gap: 0px;
+opacity: 0px;
+margin-bottom: 30px;
+}
+.Robertsmith-img{
+  width: 253.66px;
+  height: 221px;
+  top: 1280px;
+  left: 165px;
+  gap: 0px;
+  opacity: 0px;
+  border-radius: 15px;
+}
+.yourinstrctor-details{
+  margin-left: 40px;
+}
+.Robertsmith-text{
+  font-family: "Lexend";
+font-size: 25px;
+font-weight: 500;
+line-height: 31.25px;
+text-align: left;
+color: #102B5B;
+
+}
+.graphic-designer{
+  font-family: "Lexend";
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 25px;
+  text-align: left;
+  color: #8A97AE;
+
+}
+.loremipsum2-div{
+  width: 508px;
+height: 60px;
+top: 1361px;
+left: 447px;
+gap: 0px;
+opacity: 0px;
+
+}
+.loremipsum2{
+  font-family: "Lexend";
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 20px;
+  text-align: left;
+  color: #53688D;
+  
+}
+.seeprofile-div{
+  width: 113.75px;
+  top: 1447px;
+  left: 447px;
+  gap: 0px;
+  opacity: 0px;
+margin-top: 20px;
+}
+.seeprofile{
+  font-family: "Lexend";
+  font-size: 12px;
+  font-weight: 600;
+  text-align: left;
+  color: #FFFFFF;
+  background: #1261D7;
+  border-style: none;
+  border-radius: 4px ;
+  padding-top: 14px;
+  padding-left: 14px;
+
+}
